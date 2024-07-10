@@ -2,6 +2,7 @@ from deep_translator import GoogleTranslator
 from threading import Thread
 import json
 import numpy as np 
+import sys 
 
 
 english_dataset = None
@@ -18,6 +19,7 @@ def sub_dataset(dataset, divison):
 
 def translate(sentence):
     global english_wolof
+    global english_dataset
     translation = GoogleTranslator(source='en', target='wo').translate(sentence)
     english_wolof[sentence] = translation
     print(f"{sentence} : {translation}")
@@ -33,23 +35,22 @@ def translate_par_sequence(sequence):
 def devise_dataset(lot):
     subs = sub_dataset(english_dataset,lot)
     for i in range (lot) : 
-        with open(f"english_dataset_{i}.json", "a") as file :
+        with open(f"english_3_{i}.json", "a") as file :
             d = { "sentences" : list(subs[i])}
             json.dump(d, file)
             file.close()
+    exit()
 
-if __name__ == '__main__': 
-    upload_data_set("english_dataset_5.json")
-    #devise_dataset(lot)
-    english_dataset = list(english_dataset["sentences"])
+def process_lot(lot_sentence):
+    translated_lines = translate_par_sequence(lot_sentence)
+    with open(f"wolof_{sys.argv[2][:-4]}.txt", "a") as file:
+        file.writelines(translated_lines)
 
-    english_dataset_sub = sub_dataset(list(english_dataset), 50)
 
-    def process_lot(lot_sentence):
-        translated_lines = translate_par_sequence(lot_sentence)
-        with open("english_wolof_5.txt", "a") as file:
-            file.writelines(translated_lines)
-
+def run_translation_process():
+    global english_dataset
+    english_dataset = english_dataset["sentences"]
+    english_dataset_sub = sub_dataset((english_dataset), 50)
     threads = []
     for lot_sentence in english_dataset_sub:
         thread = Thread(target=process_lot, args=(lot_sentence,))
@@ -59,6 +60,33 @@ if __name__ == '__main__':
     for thread in threads:
         thread.join()
 
-    with open("english_wolof_5.json", "w") as file:
+    with open(f"wolof_{sys.argv[1]}", "w") as file:
         json.dump(english_wolof, file)
+
+
+if __name__ == '__main__': 
+    if len(sys.argv) >3:
+        print('arguments missing\n path: path to dataset \n option: d: device the dataset \n t translate the dataset')
+        exit()
+    else : 
+        upload_data_set(sys.argv[1])
+        if(sys.argv[2].lower()=="d"):
+            devise_dataset(int(sys.argv[3]))
+        
+        elif(sys.argv[2].lower()=="t"):
+            run_translation_process()
+
+
+
+            
+            
+
+    
+    
+    
+
+
+
+
+
     
