@@ -1,0 +1,601 @@
+premise	hypothesis	label
+Well, I wasn't thinking about him, but I was very disappointed, and, well, I started talking to him again.	i never spoke to him again.	2
+Well, I wasn't thinking about him, but I was very disappointed, and, well, I started talking to him again.	i was so upset that i started talking to him again.	0
+Well, I wasn't thinking about him, but I was very disappointed, and, well, I started talking to him again.	we had a good talk.	1
+They told me that I had finally found a man, as I called him.	I have not been told anything about contacting anyone.	2
+They told me that I had finally found a man, as I called him.	i was told that someone would be summoned to meet me.	0
+They told me that I had finally found a man, as I called him.	The man came a little late.	1
+you have much to say about him.	i want to tell you everything i know about it!	2
+you have much to say about him.	I didn't talk about it, although there was a lot to cover.	0
+you have much to say about him.	I won't talk about the history of the city because there is so much to tell.	1
+so i'm not sure why.	I'm sure why.	2
+so i'm not sure why.	I don't know why he skipped school.	1
+so i'm not sure why.	i don't know why this happened.	0
+I was the only one who ran the controls for the experiment at low altitude.	I didn't like the fact that I was the only one running the controls for the challenges.	1
+I was the only one who ran the controls for the experiment at low altitude.	Experiments were conducted in rooms at low altitudes	0
+I was the only one who ran the controls for the experiment at low altitude.	There were a few of us doing controls for the experiment.	2
+"Rick says, ""I'm, uh, a retired army officer""."	i am still working to this day.	2
+"Rick says, ""I'm, uh, a retired army officer""."	I retired in 2002.	1
+"Rick says, ""I'm, uh, a retired army officer""."	Rick told you I'm retired.	0
+There are some cash flow forecasts on my desk and, um, ah, it's for that and that February, that's the name of the client.	A client named katie earns $10,000 a month.	1
+There are some cash flow forecasts on my desk and, um, ah, it's for that and that February, that's the name of the client.	I have a client named katie.	0
+There are some cash flow forecasts on my desk and, um, ah, it's for that and that February, that's the name of the client.	we do not have a customer named kathy.	2
+The girl who can help me is across town.	the girl you need help for lives far away.	0
+The girl who can help me is across town.	The girl who helped me is 5 miles away.	1
+The girl who can help me is across town.	no one can help me.	2
+But they were divided as to who were field workers and who were house children, and he was like this:	all agreed to work in the field.	2
+But they were divided as to who were field workers and who were house children, and he was like this:	they could not agree on who should be in the field and who should be in the house.	0
+But they were divided as to who were field workers and who were house children, and he was like this:	they could not agree on who should work in the cotton fields and who should sweep the floors.	1
+I mean, like, they only had five kids, one died.	all their children survived.	2
+I mean, like, they only had five kids, one died.	one of the five children died.	0
+I mean, like, they only had five kids, one died.	the dead baby had been born sick.	1
+she said tears were running down her eyes, and then joe came on the porch.	tears welled up in her eyes as she told him to go out on the porch.	0
+she said tears were running down her eyes, and then joe came on the porch.	She quickly wiped away her tears after Joe threw her over the counter.	2
+she said tears were running down her eyes, and then joe came on the porch.	She quickly wiped away her tears after Joe cheated on her on the ice.	1
+Although the plane is on fire, why would it be on fire, it is burning and melting through the body of the lead, which emits radiation.	radiation can also be controlled during a fire.	1
+Although the plane is on fire, why would it be on fire, it is burning and melting through the body of the lead, which emits radiation.	After the plane burns, radiation is emitted from the body of the lead.	0
+Although the plane is on fire, why would it be on fire, it is burning and melting through the body of the lead, which emits radiation.	the radiation does not escape during a fire.	2
+This is Clem Francis, a retired major general from the United States Air Force.	The commander-in-chief is retired from the US Air Force.	0
+This is Clem Francis, a retired major general from the United States Air Force.	The chief officer retired a few weeks ago.	1
+This is Clem Francis, a retired major general from the United States Air Force.	U.S. Air Force Chief of Staff takes office this week.	2
+he said that there are two or three planes arriving in a week and i don't know where they are flying.	More than one plane lands every week.	0
+he said that there are two or three planes arriving in a week and i don't know where they are flying.	Increased air traffic is causing problems.	1
+he said that there are two or three planes arriving in a week and i don't know where they are flying.	no airplanes are going to land.	2
+They have already trained in full pressure suits and it took me some time to get into full pressure suits.	It takes up to three months to complete training in the use of full pressure suits.	1
+They have already trained in full pressure suits and it took me some time to get into full pressure suits.	The training to use full pressure suits takes considerable time.	0
+They have already trained in full pressure suits and it took me some time to get into full pressure suits.	At the end of the day, we can train you on how to use a full pressure suit.	2
+I would like to say that it is safe to go into battle with the bomb because no matter how hard it hits the ground, it will not explode.	The bomb was defused by the pilot.	1
+I would like to say that it is safe to go into battle with the bomb because no matter how hard it hits the ground, it will not explode.	There was no chance that the bomb would explode.	0
+I would like to say that it is safe to go into battle with the bomb because no matter how hard it hits the ground, it will not explode.	the bomb was a big risk of explosion.	2
+And that sounds like exactly what I'm trying to do.	I'm not sure what this looks like to you.	2
+And that sounds like exactly what I'm trying to do.	Of course, that's what I'm trying to do.	0
+And that sounds like exactly what I'm trying to do.	i'm trying to finish my project next week.	1
+But nevertheless, the animals are slaughtered regularly, especially the goats.	the goats escaped from the pen each day.	1
+But nevertheless, the animals are slaughtered regularly, especially the goats.	the goats often ran away.	0
+But nevertheless, the animals are slaughtered regularly, especially the goats.	The goats are kept safe.	2
+the doors were locked when we entered.	all the doors were open.	2
+the doors were locked when we entered.	they had the keys.	1
+the doors were locked when we entered.	the doors were locked, but we managed to get inside.	0
+So I just had to take the total and try and guess.	i'm sure i just need the numbers to solve this problem.	1
+So I just had to take the total and try and guess.	I don't have the idea, I was given only the total, please give me more details to solve this problem.	2
+So I just had to take the total and try and guess.	i meditate based on the totality.	0
+And that's mostly because their mothers are on drugs.	His mothers are drug addicts.	1
+And that's mostly because their mothers are on drugs.	the mothers are not prescribed or taking medication.	2
+And that's mostly because their mothers are on drugs.	mothers take drugs.	0
+yes, it's very nice when it rains	the rain doesn't scare me.	1
+yes, it's very nice when it rains	it is nice and rainy.	0
+yes, it's very nice when it rains	It's very bad with endless sunlight.	2
+Oh, what is the value of human life and whether or not it is possible to make someone recover	All lives are worth recovering and getting a second chance.	1
+Oh, what is the value of human life and whether or not it is possible to make someone recover	no one deserves to recover.	2
+Oh, what is the value of human life and whether or not it is possible to make someone recover	life is worth living, not recovering.	0
+oh brother you have a weird wire problem there	i have never seen such a wire problem before.	1
+oh brother you have a weird wire problem there	The problem is not the wire.	2
+oh brother you have a weird wire problem there	there is a problem with this unusual wire.	0
+Sounds like a lot of fun yeah this is amazing to me how many things they allow	i was not impressed by their mild-temperedness.	2
+Sounds like a lot of fun yeah this is amazing to me how many things they allow	to my surprise, they let her take food and drink with her.	1
+Sounds like a lot of fun yeah this is amazing to me how many things they allow	i wonder what they might be missing.	0
+Oh, but anyway, my five kids are 21 and 24 now, so I don't have to.	i don't want to because my kids are over twenty.	0
+Oh, but anyway, my five kids are 21 and 24 now, so I don't have to.	I may have to because they are close in age.	1
+Oh, but anyway, my five kids are 21 and 24 now, so I don't have to.	i have to do this because they are both 10 and 11 years old.	2
+Yes, people who can be at work at any time, or people whose decisions can be blurred if they have to	yes, humans may not be able to make the best judgment call.	0
+Yes, people who can be at work at any time, or people whose decisions can be blurred if they have to	Yes, people who do not feel hungry	1
+Yes, people who can be at work at any time, or people whose decisions can be blurred if they have to	Yes, people whose decision-making skills are not impaired at all.	2
+No, they're still, they're still on tour, they've been on tour since the late '60s.	they have been visiting since before 1970.	0
+No, they're still, they're still on tour, they've been on tour since the late '60s.	they love to visit.	1
+No, they're still, they're still on tour, they've been on tour since the late '60s.	they have recently completed their visit.	2
+How can you do aerobics?	can you explain how you do aerobics?	0
+How can you do aerobics?	I am interested in aerobics because I need some cardiovascular activity.	1
+How can you do aerobics?	Please stop talking about aerobics.	2
+Well, that's good. I hadn't thought about it.	It was a stupid idea I made last week.	2
+Well, that's good. I hadn't thought about it.	that's a good point.	0
+Well, that's good. I hadn't thought about it.	you make a good point.	1
+Two days a week, day care is provided in what is called senior citizen day care, but she goes to a senior citizen center.	The day care is open daily for children up to five years of age only.	2
+Two days a week, day care is provided in what is called senior citizen day care, but she goes to a senior citizen center.	Senior citizens are allowed to travel more than twice a week if they are able to do so.	1
+Two days a week, day care is provided in what is called senior citizen day care, but she goes to a senior citizen center.	It is referred to as elderly day care but is called a senior center.	0
+Oh, that was their goal.	This is what they have been seeking .	0
+Oh, that was their goal.	this was not what they wanted at all.	2
+Oh, that was their goal.	they achieved their goal.	1
+Gun control means using both hands	Half of all accidental gunshots are made with one hand.	1
+Gun control means using both hands	The best way to keep a gun under control is to use both feet.	2
+Gun control means using both hands	If you want to practice gun control, use both hands.	0
+And uh but if it came out of nowhere I don't know where it came from but	I don't know where it came from, but it's fast.	0
+And uh but if it came out of nowhere I don't know where it came from but	it's coming soon, but i know where it's coming from.	1
+And uh but if it came out of nowhere I don't know where it came from but	it comes like a molasses and i know exactly when it will come.	2
+No. In fact, I don't even think I know him very well.	i don't know much about him.	0
+No. In fact, I don't even think I know him very well.	i am not an expert on love.	1
+No. In fact, I don't even think I know him very well.	i have been studying him for years.	2
+Yeah, she was great, you know.	I think she knows he's awesome.	1
+Yeah, she was great, you know.	no, she was evil.	2
+Yeah, she was great, you know.	yes, she was very good.	0
+Yes, he suggested that we use the bathroom as a bathroom.	Vacuum offered to buy.	2
+Yes, he suggested that we use the bathroom as a bathroom.	he suggested a bath.	0
+Yes, he suggested that we use the bathroom as a bathroom.	he wanted to cleanse the blood with a swab.	1
+It's too bad there was a shooting on the highway three blocks from our house.	The shooting took place less than 100 miles from where I live.	2
+It's too bad there was a shooting on the highway three blocks from our house.	the shooting took place near my house, so i am afraid to go out.	1
+It's too bad there was a shooting on the highway three blocks from our house.	There was a shooting near my house, it's really not a good neighborhood.	0
+Ah-hah-hah he is true he is he is not really ah-hah-hah	i don't agree with you, he's too consistent.	2
+Ah-hah-hah he is true he is he is not really ah-hah-hah	You're probably right about the consistency.	1
+Ah-hah-hah he is true he is he is not really ah-hah-hah	you are right about that, because he is not consistent.	0
+I'm trying to stay there.	I recommend staying.	0
+I'm trying to stay there.	i am doing the best i can.	1
+I'm trying to stay there.	i will leave him and not look back.	2
+A gateway to the next era of technology.	we are building the prerequisites for the future era of technology.	0
+A gateway to the next era of technology.	We are building transistors, so that our future will be guided by artificial intelligence.	1
+A gateway to the next era of technology.	We want to prevent the technology from failing.	2
+For example, in high concentrations, all the chromosomes turn purple.	at most, only half of the genes can change to purple.	2
+For example, in high concentrations, all the chromosomes turn purple.	the seeds do not change color.	0
+For example, in high concentrations, all the chromosomes turn purple.	in some cases, the seeds may turn blue.	1
+Daniel Yaminis is a brilliant young mathematician.	Mr. Yamin is very good at math.	0
+Daniel Yaminis is a brilliant young mathematician.	Mr. Yamin's focus is on algebraic geometry.	1
+Daniel Yaminis is a brilliant young mathematician.	Mr. Yaminis is a great artist, but a bad mathematician.	2
+And if so, are they often near that border?	I know they never travel near the border.	2
+And if so, are they often near that border?	I want to know, are there many times in England?	1
+And if so, are they often near that border?	they wanted to know how many times they had been near the border.	0
+And there's, I think, a molecular clue that the biosphere is permanently building itself into a regime that can extend gene expression.	the biosphere changes dramatically.	0
+And there's, I think, a molecular clue that the biosphere is permanently building itself into a regime that can extend gene expression.	the biosphere changes with temperature.	1
+And there's, I think, a molecular clue that the biosphere is permanently building itself into a regime that can extend gene expression.	the biosphere never changes.	2
+By the way, an ordinary crystal of this size would not be able to store so much information.	Regular crystals are very high density data storage media.	2
+By the way, an ordinary crystal of this size would not be able to store so much information.	Regular crystals are not very useful for data encoding.	0
+By the way, an ordinary crystal of this size would not be able to store so much information.	there are other types of crystals that are very useful for recording geographic information using laser beams.	1
+In this regard, adults do not need to teach preschoolers to solve puzzles or other similar tasks by pretending, as they sometimes do.	preschoolers are naturally better at solving puzzles than simulation games.	2
+In this regard, adults do not need to teach preschoolers to solve puzzles or other similar tasks by pretending, as they sometimes do.	preschoolers don't need much help learning how to fake it.	0
+In this regard, adults do not need to teach preschoolers to solve puzzles or other similar tasks by pretending, as they sometimes do.	Preschoolers lack the necessary spatial modeling skills to figure out puzzles on their own.	1
+[This country] was conceived on the idea of liberty and the equality of all men.	A memorandum on this idea is recorded in several additional documents.	1
+[This country] was conceived on the idea of liberty and the equality of all men.	some people believe that all people are equal.	0
+[This country] was conceived on the idea of liberty and the equality of all men.	This country was founded on the belief that some people are inherently better than others.	2
+do i have to say thank you more?	i'm sure i need to punish him for his failures.	2
+do i have to say thank you more?	i wonder if he deserves more recognition than i do.	0
+do i have to say thank you more?	Should I thank him more for the piano-playing scene ?	1
+Circular network theories can be constructed in various dimensions.	Other dimensions can be used to construct spinning network theories.	0
+Circular network theories can be constructed in various dimensions.	Circuit networks are very useful for data storage technologies.	1
+Circular network theories can be constructed in various dimensions.	A circular network cannot be thought of in different dimensions.	2
+(Anxiously) No, no, I don't want you to die!	i don't want you to die!	0
+(Anxiously) No, no, I don't want you to die!	i don't care if you are dead!	2
+(Anxiously) No, no, I don't want you to die!	i would be very upset if you died.	1
+He was publicly hanged on March 19, 1875, in San Jose, California.	California carried out public executions until late 1875.	0
+He was publicly hanged on March 19, 1875, in San Jose, California.	he was acquitted of all wrongdoing and sent on his way.	2
+He was publicly hanged on March 19, 1875, in San Jose, California.	he was hanged for sedition and horse theft.	1
+A sea of glittering green flows through the reign of chaos.	the sea was deep blue and as smooth as glass.	2
+A sea of glittering green flows through the reign of chaos.	the sea was filled with small fish that were spraying on the boat.	1
+A sea of glittering green flows through the reign of chaos.	the sea was green and looked like a bubble.	0
+An entirely new legal system was eagerly awaiting the end of the turmoil of the 1860's.	By the 1870's, all law and order had collapsed, and the country was in a state of total lawlessness.	2
+An entirely new legal system was eagerly awaiting the end of the turmoil of the 1860's.	The 1860's were turbulent times.	0
+An entirely new legal system was eagerly awaiting the end of the turmoil of the 1860's.	The new legal system seeks to expand workers' rights.	1
+As any higher type of thinking, he points out, RST first manifests itself in social interaction, when the child and the culture engage in a shared activity between him or her representatives.	children do not have the capacity to share higher forms of thought.	2
+As any higher type of thinking, he points out, RST first manifests itself in social interaction, when the child and the culture engage in a shared activity between him or her representatives.	fishing is a popular activity in many cultures.	1
+As any higher type of thinking, he points out, RST first manifests itself in social interaction, when the child and the culture engage in a shared activity between him or her representatives.	Shared activities are sometimes useful for sharing higher types of thoughts.	0
+In some communities there were religious leaders, called rezadores, who led the community in prayer at funerals, on holidays, and whenever the priest was not present.	there were no nonpriestly spiritual leaders in all the camps.	2
+In some communities there were religious leaders, called rezadores, who led the community in prayer at funerals, on holidays, and whenever the priest was not present.	some communities had nonpriestly spiritual leaders.	0
+In some communities there were religious leaders, called rezadores, who led the community in prayer at funerals, on holidays, and whenever the priest was not present.	some spiritual leaders had dark hair.	1
+In social drama play, there are also opportunities for role-playing and coordination, perhaps helping children understand the similarities and differences between people in interests, beliefs, and emotions.	children can learn how people are the same and different.	0
+In social drama play, there are also opportunities for role-playing and coordination, perhaps helping children understand the similarities and differences between people in interests, beliefs, and emotions.	children can see how different races are.	1
+In social drama play, there are also opportunities for role-playing and coordination, perhaps helping children understand the similarities and differences between people in interests, beliefs, and emotions.	children cannot learn anything.	2
+Germany's postwar constitutional order, its supreme virtue, was the greatest casualty of the Nazi regime.	the nazi regime allowed it.	2
+Germany's postwar constitutional order, its supreme virtue, was the greatest casualty of the Nazi regime.	the nazi regime executed everyone involved.	1
+Germany's postwar constitutional order, its supreme virtue, was the greatest casualty of the Nazi regime.	the nazi regime put an end to it.	0
+sonja's daughter began to imitate her daughter's anger.	no one was angry.	2
+sonja's daughter began to imitate her daughter's anger.	sonja is a girl.	0
+sonja's daughter began to imitate her daughter's anger.	sonja was furious.	1
+6 During the fifty-five years of civil war, the court made little use of this power.	the court used this power sporadically in the decades leading up to the civil war.	0
+6 During the fifty-five years of civil war, the court made little use of this power.	The court used this authority four times in the fifty-five years leading up to the Civil War.	1
+6 During the fifty-five years of civil war, the court made little use of this power.	The court has used this power 5 million times in the fifty-five years since the Civil War.	2
+i assure you, my lord, i know all of it well.	i am telling you that i have been given knowledge of all things.	0
+i assure you, my lord, i know all of it well.	I was told about the detective's death.	1
+i assure you, my lord, i know all of it well.	There are many details that were hidden from me.	2
+the voices interrupted captain blood's angry thoughts.	captain blood was able to think his confused thoughts through without interruption.	2
+the voices interrupted captain blood's angry thoughts.	Captain Blood's thoughts were interrupted by some voices.	0
+the voices interrupted captain blood's angry thoughts.	the cat's scream threw the captain off his feet.	1
+But when I was no better than a slave in your uncle's house in Barbados, I can't forget the kindness you showed me.	when i was a slave in barbados, you treated me kindly.	0
+But when I was no better than a slave in your uncle's house in Barbados, I can't forget the kindness you showed me.	you have been incredibly cruel to me, and you have regarded me as more than filth.	2
+But when I was no better than a slave in your uncle's house in Barbados, I can't forget the kindness you showed me.	your uncle used to beat me badly every day when i was his age.	1
+less than two miles [3 km] away, a massive wall of bright green covered the western horizon.	the lush landscape was in sight.	0
+less than two miles [3 km] away, a massive wall of bright green covered the western horizon.	the island they were approaching was uninhabited.	1
+less than two miles [3 km] away, a massive wall of bright green covered the western horizon.	far away, they could see no land; all they could see was the vast ocean.	2
+I am his majesty's emissary in these barbarous regions, and a close relative of Lord Sunderland.	his majesty has messengers, and i am one of them.	0
+I am his majesty's emissary in these barbarous regions, and a close relative of Lord Sunderland.	about a week ago, his majesty sent me here.	1
+I am his majesty's emissary in these barbarous regions, and a close relative of Lord Sunderland.	i don't take orders from his majesty.	2
+"""i owe you one"", he said, ""or so i thought""."	he has never felt that he owes you anything.	2
+"""i owe you one"", he said, ""or so i thought""."	as a penniless merchant, one owed you for your help.	1
+"""i owe you one"", he said, ""or so i thought""."	he felt that he owed you something.	0
+I should have known better than to come, so I approached Jamaica at night.	after sundown, i drove near jamaica.	0
+I should have known better than to come, so I approached Jamaica at night.	I traveled to jamaica on a large boat.	1
+I should have known better than to come, so I approached Jamaica at night.	my wife and i arrived in jamaica in broad daylight.	2
+As he lay there in his bed during the day, his thoughts were on this and other things.	bleed was dreaming in his daytime sleep.	2
+As he lay there in his bed during the day, his thoughts were on this and other things.	Bled was lying down and meditating.	0
+As he lay there in his bed during the day, his thoughts were on this and other things.	bleed remembered fondly the last time he saw his mother.	1
+Of course, then, I will tell you:	Well, then I'll tell you about it.	0
+Of course, then, I will tell you:	i won't say a word to you.	2
+Of course, then, I will tell you:	i'm only telling you because you promised not to do it again.	1
+Ah! and what way could it be?	someone is asking which way to go.	0
+Ah! and what way could it be?	the person making the request is alone, and there is no one around to consult him.	2
+Ah! and what way could it be?	the inquirer is impatient and wants to know immediately which way to go.	1
+i will not accept the king's commission lightly.	it would be against my morals to carry out the king's commission.	1
+i will not accept the king's commission lightly.	i thought carefully about the king's mission.	0
+i will not accept the king's commission lightly.	without thinking, i signed the royal warrant.	2
+he recognized the urgency of the situation.	He realized that he had all day to retreat.	2
+he recognized the urgency of the situation.	he recognized the urgency of the situation.	0
+he recognized the urgency of the situation.	if he had stayed in the same place.	1
+However, in the last three years, she said she had become what she had to be and had done what she had to do, but now without any of her previous contempt, she spoke with sadness.	She didn't like that he had killed so many men in the last three years.	1
+However, in the last three years, she said she had become what she had to be and had done what she had to do, but now without any of her previous contempt, she spoke with sadness.	she speaks with enthusiasm about his adventures and personality.	2
+However, in the last three years, she said she had become what she had to be and had done what she had to do, but now without any of her previous contempt, she spoke with sadness.	she spoke in a sad tone.	0
+i guess this is after the fashion for people like you.	i think that's what people like you do.	0
+i guess this is after the fashion for people like you.	i have read about your kind and your culture.	1
+i guess this is after the fashion for people like you.	i took it for granted that this is not common among people like you.	2
+Pride has wrapped up her cover.	a huge smile spread across her face.	2
+Pride has wrapped up her cover.	she felt a tingling in her stomach.	1
+Pride has wrapped up her cover.	her face was wrinkled.	0
+she was looking at him with the light in her eyes, but when she saw his face swallowed up in sadness and saw the deep fury that had scarred his face, her own expression changed.	after seeing his face, her expression changed.	0
+she was looking at him with the light in her eyes, but when she saw his face swallowed up in sadness and saw the deep fury that had scarred his face, her own expression changed.	when she saw the distress on his face, her face brightened.	2
+she was looking at him with the light in her eyes, but when she saw his face swallowed up in sadness and saw the deep fury that had scarred his face, her own expression changed.	She didn't know if he was angry with her.	1
+he walked slowly along the corner of the fortified wall and entered the courtyard through the main entrance.	the main gates were locked, so he jumped over the wall and entered the courtyard.	2
+he walked slowly along the corner of the fortified wall and entered the courtyard through the main entrance.	the great gates were the only entrance to the courtyard.	1
+he walked slowly along the corner of the fortified wall and entered the courtyard through the main entrance.	the entrances to the courtyard were large.	0
+they will take you to the gallows, he no doubt said with contempt.	he thought that a man was going to be impaled.	0
+they will take you to the gallows, he no doubt said with contempt.	he was the police officer who caught the thief.	1
+they will take you to the gallows, he no doubt said with contempt.	he whispered of his escape from prison.	2
+how could i be loyal to them? it was negotiable.	I couldn't bring myself to arrest them.	0
+how could i be loyal to them? it was negotiable.	the moment i see them, i put them under control.	2
+how could i be loyal to them? it was negotiable.	i would never forgive myself if they were late.	1
+I've been chasing him for the past year.	i had been following him closely for a year without his knowledge.	1
+I've been chasing him for the past year.	i only watched him for about a week.	2
+I've been chasing him for the past year.	I've been following him for the past year.	0
+The museum is not strong on catalogues or accounts.	The museum doesn't like to be labeled.	1
+The museum is not strong on catalogues or accounts.	The museum is not a fan of brochures.	0
+The museum is not strong on catalogues or accounts.	The museum's strong point is its catalogs.	2
+These open-air markets themselves are the most attractive places to shop in Beijing.	Beijing has open-air markets with some of the most interesting shops.	0
+These open-air markets themselves are the most attractive places to shop in Beijing.	Beijing's open-air markets are some of the most attractive in the world.	1
+These open-air markets themselves are the most attractive places to shop in Beijing.	Beijing's strict laws prohibit open-air markets within the city limits.	2
+The large bay on the northwest coast makes a good harbor, but both the water and the beach can be dirty.	The water and the beach are always clean.	2
+The large bay on the northwest coast makes a good harbor, but both the water and the beach can be dirty.	the water and the beach may be polluted.	0
+The large bay on the northwest coast makes a good harbor, but both the water and the beach can be dirty.	the water is polluted.	1
+those skyscrapers were banks, and the street where they stood was nicknamed the mila de oro, or golden mile.	none of the skyscrapers on the golden mile are banks.	2
+those skyscrapers were banks, and the street where they stood was nicknamed the mila de oro, or golden mile.	the skyscrapers on the golden mile are banks.	0
+those skyscrapers were banks, and the street where they stood was nicknamed the mila de oro, or golden mile.	The skyscrapers on the Golden Mile are home to various types of businesses, including banks.	1
+the second world war was a british commonwealth air training program that used the safe airspace of canada to prepare pilots for war.	Canada had safer skies.	0
+the second world war was a british commonwealth air training program that used the safe airspace of canada to prepare pilots for war.	Canadian skies were free of missiles.	1
+the second world war was a british commonwealth air training program that used the safe airspace of canada to prepare pilots for war.	Canadian skies were more dangerous.	2
+And although they know that their beautiful beaches are no longer their own, they remain tolerant and supportive.	They are now bitter and annoying to everyone because they have to share the beach.	2
+And although they know that their beautiful beaches are no longer their own, they remain tolerant and supportive.	Now they have to share the beach with other people.	0
+And although they know that their beautiful beaches are no longer their own, they remain tolerant and supportive.	They used to have five hundred miles of coastline.	1
+Kublai Khan established his own fort in 1279 on the shores of Lake Beihai in Beijing, some of the imperial treasures are still on display today.	Kublai Khan established a fortune in Taiwan.	2
+Kublai Khan established his own fort in 1279 on the shores of Lake Beihai in Beijing, some of the imperial treasures are still on display today.	Kublai Khan has a large fortune in Beijing.	0
+Kublai Khan established his own fort in 1279 on the shores of Lake Beihai in Beijing, some of the imperial treasures are still on display today.	kublai khan was a very respected man.	1
+Only Protestant schools accepted their children; Eastern European Jews graduated to wealthy Westmount or emigrated back to Toronto.	Eastern European Jews get along well with everyone.	2
+Only Protestant schools accepted their children; Eastern European Jews graduated to wealthy Westmount or emigrated back to Toronto.	Jews are not wanted by the rest of society.	1
+Only Protestant schools accepted their children; Eastern European Jews graduated to wealthy Westmount or emigrated back to Toronto.	Jews were easily integrated into the Anglo-Saxon community.	0
+if possible, be acquainted with the plot in advance.	Don't get into the plot beforehand; it will spoil the fun later.	2
+if possible, be acquainted with the plot in advance.	if you can, try to understand the plot in advance.	0
+if possible, be acquainted with the plot in advance.	once you understand the plot, the lesson will be easier.	1
+The burial mounds are 27 metres (88 ft) deep underground, made of marble, and cover 1,200 square metres (13,000 sq ft).	It is buried more than 20 meters underground.	0
+The burial mounds are 27 metres (88 ft) deep underground, made of marble, and cover 1,200 square metres (13,000 sq ft).	he was an important public figure.	1
+The burial mounds are 27 metres (88 ft) deep underground, made of marble, and cover 1,200 square metres (13,000 sq ft).	His tombs are made of wood.	2
+Remember to hide all moving objects from the monkeys.	hide your possessions from the monkeys.	0
+Remember to hide all moving objects from the monkeys.	The monkeys have a keen interest in many things, including your possessions.	1
+Remember to hide all moving objects from the monkeys.	There is no need to hide your possessions from monkeys.	2
+For some 1,400 years before the construction of the palace of Esther, Milreau was the home of a prominent nobleman.	milroy was 10 miles away from everything.	1
+For some 1,400 years before the construction of the palace of Esther, Milreau was the home of a prominent nobleman.	Milroy was out of the country.	0
+For some 1,400 years before the construction of the palace of Esther, Milreau was the home of a prominent nobleman.	milreau was in the heart of the city.	2
+The sea temperature fluctuates between 18°C and 24°C (64-75°F).	The temperature of the sea is constantly changing, but the cooling air does not go below zero.	0
+The sea temperature fluctuates between 18°C and 24°C (64-75°F).	The sea climate is always in the same place throughout the year.	2
+The sea temperature fluctuates between 18°C and 24°C (64-75°F).	Sea temperatures are higher during the day, when it is warm.	1
+Kimbale National Park is one of the six protected areas in the state.	Kimbale National Park has ten elephants and six rhinos.	1
+Kimbale National Park is one of the six protected areas in the state.	The state has protected areas including the Kimbale National Park.	0
+Kimbale National Park is one of the six protected areas in the state.	There are a total of three protected areas in the state.	2
+You will see videos of Anne's story and the siege of Amsterdam, including photographs and artifacts from the period.	You do not see pictures.	2
+You will see videos of Anne's story and the siege of Amsterdam, including photographs and artifacts from the period.	you will see pictures.	0
+You will see videos of Anne's story and the siege of Amsterdam, including photographs and artifacts from the period.	you can see some of the original photos.	1
+The beach of Trier is the only resort, with a few hotels spread over three sandy beaches.	There are not many hotel options for those visiting Treasure Beach.	0
+The beach of Trier is the only resort, with a few hotels spread over three sandy beaches.	A four-star hotel is available for tourists visiting Trier beach.	1
+The beach of Trier is the only resort, with a few hotels spread over three sandy beaches.	Trier beach is one of the many resorts in the area.	2
+Summer brings warm (but not hot) weather and warm sea temperatures, making it ideal for diving, snorkeling and other water sports.	In summer, it is always 100 degrees or more.	2
+Summer brings warm (but not hot) weather and warm sea temperatures, making it ideal for diving, snorkeling and other water sports.	It's usually 75 in the summer.	1
+Summer brings warm (but not hot) weather and warm sea temperatures, making it ideal for diving, snorkeling and other water sports.	in summer, the climate is hot.	0
+one of the pools was where visitors threw coins in hopes of casting a spell on eli's head, a sure sign of good luck.	People never throw money in it because it's bad luck.	2
+one of the pools was where visitors threw coins in hopes of casting a spell on eli's head, a sure sign of good luck.	people throw coins in it even though the sign says not to.	1
+one of the pools was where visitors threw coins in hopes of casting a spell on eli's head, a sure sign of good luck.	people throw coins into the water.	0
+The port city of Nafplio is the perfect base for visiting the area, or it could be a place to have lunch on your tour.	Nafpilio has a positive attitude.	1
+The port city of Nafplio is the perfect base for visiting the area, or it could be a place to have lunch on your tour.	naphelio is a bad foundation.	2
+The port city of Nafplio is the perfect base for visiting the area, or it could be a place to have lunch on your tour.	Naflio is the perfect foundation.	0
+Otto Frank and his family hid in the attic of his business house for more than two years before they were discovered in Prinsengracht.	Otto Frank was arrested on the second day	2
+Otto Frank and his family hid in the attic of his business house for more than two years before they were discovered in Prinsengracht.	Otto Frank was in hiding for more than 25 months	0
+Otto Frank and his family hid in the attic of his business house for more than two years before they were discovered in Prinsengracht.	Otto Frank hid until the Nazis caught up with him	1
+Many state and local governments have additional regulatory requirements.	Local governments can make their own laws	1
+Many state and local governments have additional regulatory requirements.	Local managers have no prerequisites	2
+Many state and local governments have additional regulatory requirements.	There are additional regulatory requirements in the environmental administration	0
+The information security team conducts 8 to 12 sessions per month	The security team conducts an average of 9 sessions per month.	1
+The information security team conducts 8 to 12 sessions per month	The security team holds sessions every day for a month	2
+The information security team conducts 8 to 12 sessions per month	The security team holds several sessions a year.	0
+But the basic engineering had already been done.	engineering had its first revolution	0
+But the basic engineering had already been done.	engineering is done only at the last minute	2
+But the basic engineering had already been done.	Without preconditions, engineering can fail	1
+Therefore, government decision makers and managers are adopting new ways of thinking, considering ways to achieve different goals, and using new information to guide decisions.	In the United States, for example, the number of people with disabilities is rising steadily.	0
+Therefore, government decision makers and managers are adopting new ways of thinking, considering ways to achieve different goals, and using new information to guide decisions.	Government officials are trying to increase their power in a unique way	1
+Therefore, government decision makers and managers are adopting new ways of thinking, considering ways to achieve different goals, and using new information to guide decisions.	Government officials do not want to change their way of life	2
+Case files may need to be translated for non-English readers	Lawsuits filed in English only	2
+Case files may need to be translated for non-English readers	The case files can be kept in Chinese or Russian	1
+Case files may need to be translated for non-English readers	The case files may be stored in other languages	0
+Other efforts currently underway or planned include:	Most of our efforts are at work	1
+Other efforts currently underway or planned include:	We have no other plans for the future	2
+Other efforts currently underway or planned include:	We have a plan	0
+Include these recommendations in a short time, deleting the main computer files and not being able to find the necessary documents.	They deleted the computer files from IBM	1
+Include these recommendations in a short time, deleting the main computer files and not being able to find the necessary documents.	They deleted the main computer files	0
+Include these recommendations in a short time, deleting the main computer files and not being able to find the necessary documents.	Contains all major files	2
+then the same representative who made the first visit will revisit the new service provider to answer questions and discuss any problems noted in the sample query	The delegate visited for an hour	1
+then the same representative who made the first visit will revisit the new service provider to answer questions and discuss any problems noted in the sample query	It was a visit from a representative	0
+then the same representative who made the first visit will revisit the new service provider to answer questions and discuss any problems noted in the sample query	We were not visited	2
+Saving affects not only the accumulation of wealth but also the choice to save it	A person's choice to save or not to save depends on his wealth	0
+Saving affects not only the accumulation of wealth but also the choice to save it	wealth and saving have nothing to do with each other	2
+Saving affects not only the accumulation of wealth but also the choice to save it	The rich are more likely to save a large portion of their income	1
+For example, one company we studied experienced two mergers that required the company to incorporate new businesses quickly and adapt to meet growing business needs.	Although there are two mergers, the company does not need to restructure its corporate hierarchy.	2
+For example, one company we studied experienced two mergers that required the company to incorporate new businesses quickly and adapt to meet growing business needs.	Merging two companies as one entity and restructuring resulted in a fragmented work environment	1
+For example, one company we studied experienced two mergers that required the company to incorporate new businesses quickly and adapt to meet growing business needs.	We investigated the merger of two companies and had to set up quickly to meet their business needs.	0
+We were concerned that payment would be approved before the design was validated	We knew that it would take a long time to pay	2
+We were concerned that payment would be approved before the design was validated	We thought the ransom might pass before it was confirmed	0
+We were concerned that payment would be approved before the design was validated	The payment was sent early, and we thought that we would be cheated	1
+Technology is very much integrated with business processes in these organizations because technology is seen not only as a tool, but as an enabler for business.	Advanced programming software is one of the key technologies businesses are focusing on	1
+Technology is very much integrated with business processes in these organizations because technology is seen not only as a tool, but as an enabler for business.	Technology is a tool, not a facilitator of business	2
+Technology is very much integrated with business processes in these organizations because technology is seen not only as a tool, but as an enabler for business.	These businesses focus on technology	0
+Two concepts that appear frequently in the papers may be useful to inform future research	The papers can change how we test samples.	1
+Two concepts that appear frequently in the papers may be useful to inform future research	The papers could change the future of research	0
+Two concepts that appear frequently in the papers may be useful to inform future research	There's nothing in terms of changing research.	2
+Lines with boxes show the combined security level of all mailings, and lines with diamonds show the strategic losses (if negative) of outsourcing.	The lines calculate that the security level of postal deliveries is 10%	1
+Lines with boxes show the combined security level of all mailings, and lines with diamonds show the strategic losses (if negative) of outsourcing.	The lines show nothing but the road	2
+Lines with boxes show the combined security level of all mailings, and lines with diamonds show the strategic losses (if negative) of outsourcing.	The lines indicate the level of security in all mailings	0
+Based on this risk assessment, Centrelink has developed a variety of safeguards aimed at educating users and employers on income reporting requirements.	Centerlink didn't know how to solve the problem	2
+Based on this risk assessment, Centrelink has developed a variety of safeguards aimed at educating users and employers on income reporting requirements.	The government was losing a lot of money on vaccines, so Centrelink had a lot of strategies to teach people how to report income.	1
+Based on this risk assessment, Centrelink has developed a variety of safeguards aimed at educating users and employers on income reporting requirements.	Centerlink had many strategies to teach people how to report income	0
+This has enabled organisations to use the template to demonstrate scale before investing in costly capital inflows into manufacturing equipment and equipment.	And then they can show how the design works.	0
+This has enabled organisations to use the template to demonstrate scale before investing in costly capital inflows into manufacturing equipment and equipment.	They can show the company that it is not wise to build new factories.	1
+This has enabled organisations to use the template to demonstrate scale before investing in costly capital inflows into manufacturing equipment and equipment.	They had no idea how to show the impact of the inflow of capital.	2
+South Carolina's collaborative efforts yielded another success for the following year.	No one works together in south carolina	2
+South Carolina's collaborative efforts yielded another success for the following year.	S. C. worked together	0
+South Carolina's collaborative efforts yielded another success for the following year.	Democrats and Republicans in South Carolina working together	1
+According to the Board's authority, the Board's Section 605 (b) certificates are not issued separately to the Small Business Administration (SBA) Advocacy General Counsel.	The board did not issue an SBA certificate to the SBA and left that to the assessor's office.	1
+According to the Board's authority, the Board's Section 605 (b) certificates are not issued separately to the Small Business Administration (SBA) Advocacy General Counsel.	The board did not issue certificates to the SBA.	0
+According to the Board's authority, the Board's Section 605 (b) certificates are not issued separately to the Small Business Administration (SBA) Advocacy General Counsel.	The board grants SBA certificates to a single applicant	2
+Accommodation and certain other charges will be verified for the actual trip	Most domestic hotels accept credit card payments	1
+Accommodation and certain other charges will be verified for the actual trip	The trip itself is guaranteed using hotel bills	0
+Accommodation and certain other charges will be verified for the actual trip	There's no way to know for sure whether or not travel actually exists	2
+For example, one provincial capital we visited is home to over 600 software companies.	Capital cities are the best places for software companies	1
+For example, one provincial capital we visited is home to over 600 software companies.	A capital city has many software companies	0
+For example, one provincial capital we visited is home to over 600 software companies.	Software companies try to avoid the capital markets for legal reasons	2
+Perfection cannot be achieved by measuring effectiveness	If you put forth effort, you can be perfect	2
+Perfection cannot be achieved by measuring effectiveness	You can never be perfect	0
+Perfection cannot be achieved by measuring effectiveness	You cannot be perfect because we are all deeply flawed human beings	1
+The man who rented the house to Hamzi and Mehdar in 2000 is a law-abiding man with distant ties to the police and the FBI.	Hazmi and Mehdar had bought a house and had no contact with anyone.	2
+The man who rented the house to Hamzi and Mehdar in 2000 is a law-abiding man with distant ties to the police and the FBI.	Hazmi and Mihrad rented a house for the whole year for $500 a day	1
+The man who rented the house to Hamzi and Mehdar in 2000 is a law-abiding man with distant ties to the police and the FBI.	Hasmi and Mihrad rented a house	0
+See the intelligence report of a Saudi al-Qaeda member on his trip to Bosnia, October 3, 2001	The al-Qaeda operative traveled to Bosnia 18 times in 2001	1
+See the intelligence report of a Saudi al-Qaeda member on his trip to Bosnia, October 3, 2001	The al-Qaeda member had traveled to Bosnia	0
+See the intelligence report of a Saudi al-Qaeda member on his trip to Bosnia, October 3, 2001	There is no confirmation that the al-Qaeda member went to Bosnia.	2
+Jane asked the representative of the New York agency assigned to the search for Mahmoud to sign a form acknowledging that he understood how to handle FISA information.	Jane requested that the FISA form be signed by a federal judge	1
+Jane asked the representative of the New York agency assigned to the search for Mahmoud to sign a form acknowledging that he understood how to handle FISA information.	Jane was asked to sign the FISA approval form.	0
+Jane asked the representative of the New York agency assigned to the search for Mahmoud to sign a form acknowledging that he understood how to handle FISA information.	Jane said that there was no need for FISA certification.	2
+There's nothing special about any of them in terms of the only level of security associated with the actual screening.	During the search, shocking evidence was uncovered	2
+There's nothing special about any of them in terms of the only level of security associated with the actual screening.	Checkpoints rely entirely on the intuition of the customs agent who performs the checks	1
+There's nothing special about any of them in terms of the only level of security associated with the actual screening.	the investigation couldn't find any evidence against them	0
+Kalad presented the second edition, i.e. the three travelled to Karachi together	kalad said that he knew nothing about the three	2
+Kalad presented the second edition, i.e. the three travelled to Karachi together	Caldas said that the three could travel together	0
+Kalad presented the second edition, i.e. the three travelled to Karachi together	Khaled said that the three who went to Karachi together in October had a 50% chance.	1
+Intelligence report, the Binelchib investigation, as of October 1, 2002	Binalshibh was questioned by the FBI task force	1
+Intelligence report, the Binelchib investigation, as of October 1, 2002	Interviewed by the Bolsheviks in 2002	0
+Intelligence report, the Binelchib investigation, as of October 1, 2002	ben-el-sheb was never told and disappeared	2
+April received a new U.S. visa two days after the CIA-FBI meeting in New York	He had a US visa to enter the country in November	0
+April received a new U.S. visa two days after the CIA-FBI meeting in New York	Mihrad was denied a visa and never came to the United States	2
+April received a new U.S. visa two days after the CIA-FBI meeting in New York	Mehmed was not threatened and was granted a visa	1
+Despite a two-year investigation, the FBI has been unable to locate his associate or determine his true identity.	F.B.I. couldn't find him after he fled Florida in 2001	1
+Despite a two-year investigation, the FBI has been unable to locate his associate or determine his true identity.	The FBI was unable to identify the man	0
+Despite a two-year investigation, the FBI has been unable to locate his associate or determine his true identity.	The FBI found out who he was and put him in jail.	2
+Like American 11, the last official contact on the plane was at 8:13 A.M.	11 from the united states	0
+Like American 11, the last official contact on the plane was at 8:13 A.M.	Every five minutes, there were talks with 11 Americans.	1
+Like American 11, the last official contact on the plane was at 8:13 A.M.	There was no transmission in the U.S. 11	2
+To get it from the German government would require a fast and very useful Tver, which would have been difficult to obtain.	Investigation may reveal the hiding place of three men	1
+To get it from the German government would require a fast and very useful Tver, which would have been difficult to obtain.	The German government may have had difficulty conducting a quick and thorough investigation	0
+To get it from the German government would require a fast and very useful Tver, which would have been difficult to obtain.	The investigation will be very simple and easy for the government to conduct	2
+These capabilities were inadequate, but little was done to expand or improve them.	They did not change much in their visiting schedule	1
+These capabilities were inadequate, but little was done to expand or improve them.	They did little to change things.	0
+These capabilities were inadequate, but little was done to expand or improve them.	They worked hard to put things right	2
+The analyst's e-mail, however, reveals that she has been raising widespread warnings and legal hurdles regarding data sharing and laws governing the use of information collected by intelligence agencies by criminal agents.	The analyst Crystal provided a clear analysis	2
+The analyst's e-mail, however, reveals that she has been raising widespread warnings and legal hurdles regarding data sharing and laws governing the use of information collected by intelligence agencies by criminal agents.	The analyst was unclear on many things	0
+The analyst's e-mail, however, reveals that she has been raising widespread warnings and legal hurdles regarding data sharing and laws governing the use of information collected by intelligence agencies by criminal agents.	The critic's report was so badly damaged that no one could read it	1
+Some officers were assigned to evacuate people through the stairs, while others were assigned to expedite evacuations in squares, public gatherings, and on the streets.	The officers have found their own work	0
+Some officers were assigned to evacuate people through the stairs, while others were assigned to expedite evacuations in squares, public gatherings, and on the streets.	Officials go wherever they are needed	2
+Some officers were assigned to evacuate people through the stairs, while others were assigned to expedite evacuations in squares, public gatherings, and on the streets.	the officers were assigned based on their experience	1
+On September 9, surprising news arrived from Afghanistan.	We have received news from Afghanistan	0
+On September 9, surprising news arrived from Afghanistan.	We didn't hear anything from Afghanistan until October	2
+On September 9, surprising news arrived from Afghanistan.	We were warned about the attack on September 9	1
+Failure to communicate was a critical part of the response at the World Trade Center, the Pentagon, and the Somerset County, Pennsylvania, crash sites, several agencies, and several governors.	Communication worked well on 9/11	2
+Failure to communicate was a critical part of the response at the World Trade Center, the Pentagon, and the Somerset County, Pennsylvania, crash sites, several agencies, and several governors.	At the world trade center, people were having trouble communicating because the lights were out and phone lines were down.	1
+Failure to communicate was a critical part of the response at the World Trade Center, the Pentagon, and the Somerset County, Pennsylvania, crash sites, several agencies, and several governors.	At the World Trade Center, people had difficulty communicating	0
+His driver's license, car registration, and phone number could be found in easily accessible databases	Investigators also sought access to professional databases	1
+His driver's license, car registration, and phone number could be found in easily accessible databases	Many types of data are available from existing databases	0
+His driver's license, car registration, and phone number could be found in easily accessible databases	There was no way to get any information on the subject using existing sources.	2
+expressing doubts about the whole transaction, the manager isolated themselves from hazmi and mihdar, but not before they got the help they needed.	The manager immediately contacted the authorities and refused to help in this matter	2
+expressing doubts about the whole transaction, the manager isolated themselves from hazmi and mihdar, but not before they got the help they needed.	Although the manager was upset, they offered to help	0
+expressing doubts about the whole transaction, the manager isolated themselves from hazmi and mihdar, but not before they got the help they needed.	The assistance included obtaining cash and travel documents	1
+In 2003 these labels were removed; all cases of international terrorism now have the same designation, 315	All cases of terrorism have been given high priority	1
+In 2003 these labels were removed; all cases of international terrorism now have the same designation, 315	All cases of terrorism receive the same label	0
+In 2003 these labels were removed; all cases of international terrorism now have the same designation, 315	Each case of terrorism is independently assessed and rated	2
+The officer who witnessed the collapse of the south tower communicated the evacuation order to the ESU units in the north tower	After the southern wall collapsed, no one was left on the northern wall	2
+The officer who witnessed the collapse of the south tower communicated the evacuation order to the ESU units in the north tower	The south tower collapsed 30 minutes before the official spoke to the ESU units in the north tower	1
+The officer who witnessed the collapse of the south tower communicated the evacuation order to the ESU units in the north tower	The official witnessed the collapse of the south tower	0
+Indianapolis is actually one of the best places for many actors to work.	Actors love Indianapolis because of all the recruitment agencies there.	1
+Indianapolis is actually one of the best places for many actors to work.	If you're an actor, you should consider moving to Indianapolis.	0
+Indianapolis is actually one of the best places for many actors to work.	It's hard to get a job in Indianapolis if you're in the movie and theater business, because it's mostly a tech city.	2
+We offer help 24 hours a day, 7 days a week through the Early Prevention Information Resource Center and by phone.	People can reach us only by mail or e-mail	2
+We offer help 24 hours a day, 7 days a week through the Early Prevention Information Resource Center and by phone.	We can be reached by telephone at any time of the day	0
+We offer help 24 hours a day, 7 days a week through the Early Prevention Information Resource Center and by phone.	Every Monday and Friday we receive over a hundred calls	1
+These boxes are left in their wrappings after all other gifts have been opened	These boxes contain dangerous explosives	1
+These boxes are left in their wrappings after all other gifts have been opened	These boxes are opened before the other gifts	2
+These boxes are left in their wrappings after all other gifts have been opened	These boxes are left unopened for a time	0
+If we lower our price, we need to reach out to you, our audience members, to ask for a small contribution to help us achieve this mission.	To keep our ticket price under $ 10, we need all members of the audience to donate $25.	1
+If we lower our price, we need to reach out to you, our audience members, to ask for a small contribution to help us achieve this mission.	Without your money, we can lower our price if we want the truth, but our boss loves the convenience.	2
+If we lower our price, we need to reach out to you, our audience members, to ask for a small contribution to help us achieve this mission.	Your contributions have helped us to keep the cost down	0
+00 has helped us provide guidance, encouragement and licensing to nearly 400 Indianapolis-area children.	Thanks to our donations to charity, we were able to invite Beyoncé to do a concert for the Indianapolis Orphans.	1
+00 has helped us provide guidance, encouragement and licensing to nearly 400 Indianapolis-area children.	We had hoped to have a Christmas party for the children, but we couldn't do anything for them.	2
+00 has helped us provide guidance, encouragement and licensing to nearly 400 Indianapolis-area children.	We were able to help many Indianapolis children	0
+Initially, individuals can participate by donating an unlimited amount of $1,000 or more annually to the Secretary of State's Club, or $500 or more to Secretary of State Associates.	Individuals can participate with a small donation of $50	2
+Initially, individuals can participate by donating an unlimited amount of $1,000 or more annually to the Secretary of State's Club, or $500 or more to Secretary of State Associates.	Individuals can participate if they donate a reasonable amount	0
+Initially, individuals can participate by donating an unlimited amount of $1,000 or more annually to the Secretary of State's Club, or $500 or more to Secretary of State Associates.	Most individuals choose to donate to the Secretary of State's office	1
+In addition to gifts of money and valuable personal property, there are other methods of giving to benefit Kingdom service worldwide.	If you donate at least $1,000, you can be assured of tax benefits	1
+In addition to gifts of money and valuable personal property, there are other methods of giving to benefit Kingdom service worldwide.	Unfortunately, our tax advisors advise you not to make any gift.	2
+In addition to gifts of money and valuable personal property, there are other methods of giving to benefit Kingdom service worldwide.	In addition to gifts of money and valuable personal property, there are other methods of giving to benefit Kingdom service worldwide.	0
+As you know, the membership of this group includes friends and former students who donate $1,000 or more to the law school each year.	Some members of this group have donated over $100k to the school.	1
+As you know, the membership of this group includes friends and former students who donate $1,000 or more to the law school each year.	We have people in this group who have donated over $1,000 to the law school.	0
+As you know, the membership of this group includes friends and former students who donate $1,000 or more to the law school each year.	We plan to ask this group to donate money to the school, but they haven't done this before.	2
+In the '50s, one of my fondest memories was attending a civic theater production.	When I was a kid, I hated going to plays, so I became a scientist.	2
+In the '50s, one of my fondest memories was attending a civic theater production.	As a child, I loved the theater	0
+In the '50s, one of my fondest memories was attending a civic theater production.	My favorite civic theater production was Beauty and the Beast.	1
+This letter will be delivered only if each person donates $18	don't give away your property because this letter is a scam	2
+This letter will be delivered only if each person donates $18	We'll give you a gift if you donate $18	1
+This letter will be delivered only if each person donates $18	We hope that all recipients will be able to donate $18	0
+Simply click the bottom, check the relevant option, make any changes to your address if necessary, and send it in a sealed envelope.	Please do not make any changes to your address	2
+Simply click the bottom, check the relevant option, make any changes to your address if necessary, and send it in a sealed envelope.	A white envelope with your address on it	1
+Simply click the bottom, check the relevant option, make any changes to your address if necessary, and send it in a sealed envelope.	You are free to make changes to your address if you find it appropriate	0
+The School of Nursing needs your generous donations to continue and maintain academic excellence.	Please donate $100 million to the School of Nursing, or your monument will not work.	1
+The School of Nursing needs your generous donations to continue and maintain academic excellence.	The nursing school has met all of its funding goals, so it doesn't need any more money.	2
+The School of Nursing needs your generous donations to continue and maintain academic excellence.	We hope you will donate to the School of Nursing	0
+80% of participants report increased conflict resolution skills	More than half of the participants report increased conflict resolution skills	0
+80% of participants report increased conflict resolution skills	Only a quarter of respondents reported increased conflict resolution skills	2
+80% of participants report increased conflict resolution skills	More than 100 persons attended	1
+Please don't send messages to people who don't give.	If you stop giving, it's a shame	0
+Please don't send messages to people who don't give.	The names of the people who died were published for the world to see, so trust me, you don't want to be embarrassed like that.	1
+Please don't send messages to people who don't give.	We have many donors, so please stop the donation.	2
+Anyone with a computer and a modem on our floor can access it.	They don't need anything to get into the floor	2
+Anyone with a computer and a modem on our floor can access it.	To get on the floor, you need both a computer and a modem.	0
+Anyone with a computer and a modem on our floor can access it.	In order to enter the floor, she must carry both a computer and a modem.	1
+Ticket sales and subscriptions can't make us any money for the entire season.	As long as we have ticket sales, we will have our full season	2
+Ticket sales and subscriptions can't make us any money for the entire season.	We need more than ticket sales and subscriptions to cover our full season costs.	0
+Ticket sales and subscriptions can't make us any money for the entire season.	Ticket sales and subscriptions only cover 70% of our total cost.	1
+Each gift makes a difference newcomers' challenges	All donations are noted and advertised in our monthly magazine	1
+Each gift makes a difference newcomers' challenges	Each gift you receive is valued for something	0
+Each gift makes a difference newcomers' challenges	Only gifts over $100 make a difference	2
+We're a long way from reaching our $365,000 goal with friends and followers like you.	We exceeded our goal of $300,000	0
+We're a long way from reaching our $365,000 goal with friends and followers like you.	In fact, we hope to triple our funding goal.	1
+We're a long way from reaching our $365,000 goal with friends and followers like you.	There are no hard and fast rules about money	2
+Our public health center has been operating for several years, and recently we added a crime prevention health center.	Our Government Health Center has served for eight years	1
+Our public health center has been operating for several years, and recently we added a crime prevention health center.	Our public health center will celebrate its first anniversary next month.	2
+Our public health center has been operating for several years, and recently we added a crime prevention health center.	Our public health center has been in operation for over a year.	0
+ticket sales did not begin to cover the cost of these programs	It seems that the ticket revenue does not cover the cost of these events	0
+ticket sales did not begin to cover the cost of these programs	The cost of these arrangements is very high	1
+ticket sales did not begin to cover the cost of these programs	The ticket revenue certainly covers the cost of these programs	2
+Omnia Vincent Amor (if you don't work for a weekly show): Brit Hume (Fox News Sunday) speculates on why Lewinsky might not be the one she still has a desperate crush on.	Britt Hume is Fox's Chief Correspondent	1
+Omnia Vincent Amor (if you don't work for a weekly show): Brit Hume (Fox News Sunday) speculates on why Lewinsky might not be the one she still has a desperate crush on.	Britt Hum is working for CNN	2
+Omnia Vincent Amor (if you don't work for a weekly show): Brit Hume (Fox News Sunday) speculates on why Lewinsky might not be the one she still has a desperate crush on.	Britt Hum works for Fox	0
+Michael Apted did a lot of work to make the series more human.	Michael Apted has ended the series for appearances that are physical and exciting.	2
+Michael Apted did a lot of work to make the series more human.	Michael Apted was hired to add personal qualities to the series.	0
+Michael Apted did a lot of work to make the series more human.	The series was thought to be unemotional and boring, so it was necessary to hire Michael Apted to add fun and personality to the show in order to improve ratings.	1
+To see a girl in a white fur coat and long shoes	the girl in her skiing outfit	1
+To see a girl in a white fur coat and long shoes	the girl in the white robe	0
+To see a girl in a white fur coat and long shoes	The girl is all dressed in red	2
+What the film failed to mention was that Kaufman often talked about how he wanted to kill himself.	The film does not mention Kaufman when discussing his own death.	0
+What the film failed to mention was that Kaufman often talked about how he wanted to kill himself.	The film features an in-depth interview with Kauffman about his death.	2
+What the film failed to mention was that Kaufman often talked about how he wanted to kill himself.	The film was ahead of its time, although it omitted some crucial details about Kaufman	1
+Rockefeller was in the throes of a bloody battle as he sought to avenge Angel Tarbell	Rockefeller donated to cancer research	1
+Rockefeller was in the throes of a bloody battle as he sought to avenge Angel Tarbell	Rockefeller was a generous man	0
+Rockefeller was in the throes of a bloody battle as he sought to avenge Angel Tarbell	Rockefeller was asthmatic	2
+Claimant sided with the other side in a recent tribal dispute over trade in New York	Claimant incited racial prejudice in California	2
+Claimant sided with the other side in a recent tribal dispute over trade in New York	Claiman did not expect to be accused of racial discrimination	1
+Claimant sided with the other side in a recent tribal dispute over trade in New York	Claiman was accused of racial prejudice	0
+He didn't expect to bluntly insult the U.S. Department of Labor in a room full of corporate executives.	Representatives of the corporation wear wool	1
+He didn't expect to bluntly insult the U.S. Department of Labor in a room full of corporate executives.	A man waits for company representatives to whistle	2
+He didn't expect to bluntly insult the U.S. Department of Labor in a room full of corporate executives.	One does not expect corporate representatives to whistle	0
+Just because care has a greater impact on athletic performance does not mean that nature has been neglectful.	Athletes are born with the ability to reach their full potential	2
+Just because care has a greater impact on athletic performance does not mean that nature has been neglectful.	Athletic ability is more affected by practice than by genetics	0
+Just because care has a greater impact on athletic performance does not mean that nature has been neglectful.	The strongest athletes train for at least eight hours each week	1
+Once home, I learned that the United States had two ways to intercept supplies	I was interested in politics	1
+Once home, I learned that the United States had two ways to intercept supplies	I learned about the United States	0
+Once home, I learned that the United States had two ways to intercept supplies	Before I came home, I learned that the United States had two supply routes	2
+the world's oldest and largest university press, oxford, announces the cancellation of its poetry lists	The Oxford list of poems is now discontinued.	0
+the world's oldest and largest university press, oxford, announces the cancellation of its poetry lists	The prestigious university does not have the funding to actively maintain its poetry list.	1
+the world's oldest and largest university press, oxford, announces the cancellation of its poetry lists	The university is committed to preserving the list of poems and never deleting it.	2
+But there is a comforting reward for mankind	The consolation prize is a free two-speed mixer for everyone.	1
+But there is a comforting reward for mankind	In this situation, there is no exchange for people	2
+But there is a comforting reward for mankind	This is not all bad news for mankind	0
+betting on these sites is not limited to sports	Betting on political contests and elections is also allowed on these sites	1
+betting on these sites is not limited to sports	these sites only accept bets on sporting events	2
+betting on these sites is not limited to sports	These sites take the best of the best in a variety of activities.	0
+Following the August 25 Democratic convention in Atlantic City, New Jersey, Johnson, 56, has threatened to withdraw from the presidential race at three consecutive scheduled conventions.	Johnson felt that he had no support	1
+Following the August 25 Democratic convention in Atlantic City, New Jersey, Johnson, 56, has threatened to withdraw from the presidential race at three consecutive scheduled conventions.	Johnson never thought of quitting	2
+Following the August 25 Democratic convention in Atlantic City, New Jersey, Johnson, 56, has threatened to withdraw from the presidential race at three consecutive scheduled conventions.	Johnson was determined to get out	0
+Lamar Alexander withdrew from the presidential bid	At least one man has given up on running for president	0
+Lamar Alexander withdrew from the presidential bid	Lamar Alexander refused to abandon the presidential campaign	2
+Lamar Alexander withdrew from the presidential bid	Mr. Alexander was forced to leave after his embarrassing photos were published	1
+The first travel bureau investigation by the White House on this tragic civil liberties record is the FBI's misuse and misrepresentation of FileGate.	The White House has FBI spies on political candidates	1
+The first travel bureau investigation by the White House on this tragic civil liberties record is the FBI's misuse and misrepresentation of FileGate.	the white house abuses the fbi	0
+The first travel bureau investigation by the White House on this tragic civil liberties record is the FBI's misuse and misrepresentation of FileGate.	the white house uses the fbi appropriately	2
+Tung has vowed to take action against property analysts, but many think his outcry will be worse than the damage.	Tung does not care about property speculators	2
+Tung has vowed to take action against property analysts, but many think his outcry will be worse than the damage.	Tung feels that consumers are behaving immorally	1
+Tung has vowed to take action against property analysts, but many think his outcry will be worse than the damage.	Tung seeks to influence property investors	0
+The bag problem has been resolved with the footage of non-working flight attendants, non-mechanical flight cancellations, forced payments.	Ten people lost their luggage	1
+The bag problem has been resolved with the footage of non-working flight attendants, non-mechanical flight cancellations, forced payments.	People complained about their luggage	0
+The bag problem has been resolved with the footage of non-working flight attendants, non-mechanical flight cancellations, forced payments.	There were no complaints whatsoever	2
+Lawrence Singleton, the notorious rapist, was released from prison after serving only eight years for the amputation of his victim's arm, but he was again convicted of assaulting and murdering a woman in Florida	He cut off the injured arm, threw it away, and tried to hide it in a garbage can	1
+Lawrence Singleton, the notorious rapist, was released from prison after serving only eight years for the amputation of his victim's arm, but he was again convicted of assaulting and murdering a woman in Florida	It was obvious to everyone that his time in prison had completely changed him	2
+Lawrence Singleton, the notorious rapist, was released from prison after serving only eight years for the amputation of his victim's arm, but he was again convicted of assaulting and murdering a woman in Florida	Mr. Singleton was convicted of rape in Florida	0
+New Republic colleague Charles Lane says the news of Gabriel García Márquez's kidnapping is a record of dishonest journalism.	Charles Lane is a reporter	0
+New Republic colleague Charles Lane says the news of Gabriel García Márquez's kidnapping is a record of dishonest journalism.	Charles Lane sold his cars	2
+New Republic colleague Charles Lane says the news of Gabriel García Márquez's kidnapping is a record of dishonest journalism.	Charles Lane won the Pulitzer Prize	1
+The court is not the only political circus in Washington this morning.	The court is not the only political venue in Washington	0
+The court is not the only political circus in Washington this morning.	The political day may have begun in the morning	1
+The court is not the only political circus in Washington this morning.	The courtroom is a circus of jokes	2
+We can think of a dozer driver as paving the way for a new development being done by the developer.	You might think that the dozer driver is starting the dozer	1
+We can think of a dozer driver as paving the way for a new development being done by the developer.	You can imagine the dozer driver	0
+We can think of a dozer driver as paving the way for a new development being done by the developer.	The driver of the dozer cannot think	2
+I told this to the doctor in a letter, apparently to please him, and he sent me a little fruit cake there too.	i'm sure the doctor received my letter	0
+I told this to the doctor in a letter, apparently to please him, and he sent me a little fruit cake there too.	that christmas i didn't eat the cake the doctor sent me	1
+I told this to the doctor in a letter, apparently to please him, and he sent me a little fruit cake there too.	The doctor put wine in my bottle that Christmas	2
+The band was formerly known as the Beaneaters, which, ironically, could also be considered an Indian nickname.	The name of the band was changed because it was not popular	1
+The band was formerly known as the Beaneaters, which, ironically, could also be considered an Indian nickname.	The group had a previous name that could be considered an Indian nickname.	0
+The band was formerly known as the Beaneaters, which, ironically, could also be considered an Indian nickname.	The group has only one name	2
+I couldn't find such a translation in Thesaurus.	I found the translation in the Thesaurus	2
+I couldn't find such a translation in Thesaurus.	I looked in the Thesaurus and found no interpretation.	0
+I couldn't find such a translation in Thesaurus.	The Thalassaurus I used was a normal Thalassaurus.	1
+How can one do so?	How Many People Can Do Nothing	2
+How can one do so?	how can someone do something so awful	1
+How can one do so?	How can a person do this?	0
+Furthermore, according to preliminary work, it contains only words known to have originated in the twentieth century, but omits early 20th century military words.	As noted in the introduction, it contains words from the twentieth century but omits earlier ones	0
+Furthermore, according to preliminary work, it contains only words known to have originated in the twentieth century, but omits early 20th century military words.	It contains all the words that have been recorded since ancient times	2
+Furthermore, according to preliminary work, it contains only words known to have originated in the twentieth century, but omits early 20th century military words.	There are many different styles before the twentieth century.	1
+If one has the 1984 edition, one may be disappointed to buy this rather than the short-lived (and less expensive) supplement	The 1984 edition is the best of many	1
+If one has the 1984 edition, one may be disappointed to buy this rather than the short-lived (and less expensive) supplement	This publication is not for sale.	2
+If one has the 1984 edition, one may be disappointed to buy this rather than the short-lived (and less expensive) supplement	The offer is cheaper than the book	0
+Bernstein explained in his introduction	Bernstein did not explain it in detail	1
+Bernstein explained in his introduction	Bernstein explains only in the summary	2
+Bernstein explained in his introduction	The introduction contains our explanations	0
+Even after some twenty years of acquaintance, these subjects are not advisable to interfere with just because it is difficult for a foreigner to discern many things that are strange about them.	Even native speakers sometimes have a problem with humor	1
+Even after some twenty years of acquaintance, these subjects are not advisable to interfere with just because it is difficult for a foreigner to discern many things that are strange about them.	Humor is generally one of the easiest things for foreigners to understand.	2
+Even after some twenty years of acquaintance, these subjects are not advisable to interfere with just because it is difficult for a foreigner to discern many things that are strange about them.	These topics are difficult for outsiders to understand	0
+Finally, one should be careful if the extension has a different meaning.	Editors are typically hired to catch this kind of error.	1
+Finally, one should be careful if the extension has a different meaning.	Extending the meaning of sentences is a good way to make sure the light is on	2
+Finally, one should be careful if the extension has a different meaning.	When he tries to make a long statement, the meaning may change	0
+Make your head spin in the heat	Adding heat to people's heads is a good way to improve their focus and motivation.	2
+Make your head spin in the heat	Overheating can lead to turning in some cases	0
+Make your head spin in the heat	Today's temperature was five degrees above the average	1
+No other profession has such a rich culture of self-denial.	Many other professionals have a high opinion of themselves	1
+No other profession has such a rich culture of self-denial.	Many professionals do not practice self-isolation	2
+No other profession has such a rich culture of self-denial.	Other jobs do not have a culture of self-criticism	0
+And on proud notes, those fabrics with evocative names in local legends use these pronunciations in personal letters, house gossip, and a vague form of identity.	These papers have no reputation	2
+And on proud notes, those fabrics with evocative names in local legends use these pronunciations in personal letters, house gossip, and a vague form of identity.	These papers have a good reputation	0
+And on proud notes, those fabrics with evocative names in local legends use these pronunciations in personal letters, house gossip, and a vague form of identity.	Those papers have the whispers of many housewives	1
+If simple and crisp describes the character of the beer	"beer may be labeled ""light and clear"""	0
+If simple and crisp describes the character of the beer	The words simple and pure are sufficient to describe only wine and whiskey	2
+If simple and crisp describes the character of the beer	A light beer has a lower alcohol content	1
+The unofficially busy names are used when neither they nor any other alternative names are needed.	People struggle to find a new name	1
+The unofficially busy names are used when neither they nor any other alternative names are needed.	The name is often used	0
+The unofficially busy names are used when neither they nor any other alternative names are needed.	The name should be more widely used	2
+In all of this, we have the unpleasant fact that a touching article can sometimes be unforgettable and exacerbate the problem.	People are more likely to remember bad handwriting	2
+In all of this, we have the unpleasant fact that a touching article can sometimes be unforgettable and exacerbate the problem.	Well-written manuscripts are often easier to remember than poorly written ones	0
+In all of this, we have the unpleasant fact that a touching article can sometimes be unforgettable and exacerbate the problem.	Well-written documents are expensive to mass-produce	1
+Faced with this attitude, and somewhat surprised, the English proved their dignity by expressing the word in the main	Britain had no prestige	2
+Faced with this attitude, and somewhat surprised, the English proved their dignity by expressing the word in the main	britain dominated the world economy	1
+Faced with this attitude, and somewhat surprised, the English proved their dignity by expressing the word in the main	Britain was the world's leading trading nation.	0
+Sometimes it resembles a snake	Sometimes it can be very difficult to identify	0
+Sometimes it resembles a snake	Thanks to its carefully coated engine, it produces very little noise	1
+Sometimes it resembles a snake	It was always very easy to see from any distance	2
+In fact, there are English dialects in Britain that are more distinct than in North America, and anyone who's spent time with them knows they're not related.	Britain has more distinctive dialects of English than North America	0
+In fact, there are English dialects in Britain that are more distinct than in North America, and anyone who's spent time with them knows they're not related.	The North American and British accents are exactly the same and people can't tell the difference between them.	2
+In fact, there are English dialects in Britain that are more distinct than in North America, and anyone who's spent time with them knows they're not related.	People from North America have difficulty understanding half of the British accent	1
+A Tennessee informant used dog weather to describe hot, rainy weather, possibly referring to June's dry weather from the expression dog days.	According to the informant, it was used to describe seasonal heavy rainfall in hot and humid weather	2
+A Tennessee informant used dog weather to describe hot, rainy weather, possibly referring to June's dry weather from the expression dog days.	June and July are the hottest months in Tennessee.	1
+A Tennessee informant used dog weather to describe hot, rainy weather, possibly referring to June's dry weather from the expression dog days.	in august, the weather is hot and dry	0
